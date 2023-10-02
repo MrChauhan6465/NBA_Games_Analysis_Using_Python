@@ -8,8 +8,8 @@ link : (https://www.kaggle.com/nathanlauga/nba-games)
 
 ## Key Tasks:
 
-Import necessary libraries.
-Load and examine the NBA games dataset.
-Combine game and team datasets.
-Explore the merged dataset.
-Dive into data manipulation and transformation.
+1) Import necessary libraries.
+2) Load and examine the NBA games dataset.
+3) Combine game and team datasets.
+4) Explore the merged dataset.
+5) Dive into data manipulation and transformation.
